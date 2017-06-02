@@ -1,0 +1,13 @@
+{
+  "name": "rollbot",
+  "version": "1.0.0",
+  "description": "rolls dice",
+  "main": "rollbot.js",
+  "repository": "todo",
+  "author": "Kevin Lee <kevinmlee.x@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "uws": "^0.14.5"
+  }
+}
